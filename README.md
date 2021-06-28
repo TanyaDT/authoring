@@ -13,8 +13,8 @@
 - [ ] Tables
  
 [External link](https://help.github.com/en)
- 
- Add an image
+
+[Image](./IMG_0402.jpg)
  
  👽
  
