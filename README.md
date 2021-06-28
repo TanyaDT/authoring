@@ -22,11 +22,15 @@
  🇲🇫
  
 ### Tables 
-|Heading 1|Heading2|
+|Favorite Place 1|Favorite Place2|
 |:---:|:---:|
-|row one A |row one B|
-|row two A|row two B|
+|Italy |Chile|
+|Rome|Eastern Island|
+|:![Image](./Folder/Images/rome.jpg):|
+|:![Image](./Folder/Images/easter-island.jpg):|
 
+![Image](./Folder/Images/rome.jpg)
+![Image](./Folder/Images/easter-island.jpg)  
 
  
  
