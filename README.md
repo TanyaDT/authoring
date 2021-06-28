@@ -29,8 +29,6 @@
 |:![Image](./Folder/Images/rome.jpg):|
 |:![Image](./Folder/Images/easter-island.jpg):|
 
-![Image](./Folder/Images/rome.jpg)
-![Image](./Folder/Images/easter-island.jpg)  
 
  
  
