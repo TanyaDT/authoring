@@ -9,7 +9,7 @@
 - [x] [Tables](#Tables)
 
 ### External Link 
-[External link](https://help.github.com/en)
+[GitHub](https://help.github.com/en)
 
 ### Images
 [Image](./Folder/Images/IMG_0402.jpg) 
