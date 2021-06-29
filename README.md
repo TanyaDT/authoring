@@ -12,7 +12,7 @@
 [GitHub](https://help.github.com/en)
 
 ### Images
-[Image](./Folder/Images/IMG_0402.jpg) 
+[Image Folder](./Folder/Images/IMG_0402.jpg) 
 
 ![Image](./Folder/Images/IMG_0402.jpg) 
 
